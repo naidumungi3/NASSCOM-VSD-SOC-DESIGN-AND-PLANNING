@@ -1,3 +1,31 @@
-# NASSCOM-VSD-SOC-DESIGN-AND-PLANNING
-VLSI Physical Design SOC Implementation.
-package interfaces pads die core 
+
+#ASIC DESIGN(RTL to GDS 2)
+
+A brief description
+
+
+
+
+
+## Scedule
+
+- 2 weeks of learning
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
+## Screenshots
+
+![App Screenshot](https://ibb.co/yq5DZ68)
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
