@@ -3,7 +3,6 @@
 
 # Lab Activities:
 
-## DAY 1
 
 ### Exploring what's inside SKY130A PDK(An 130nm opensource pdk by google+skywater technologies) 
 
@@ -37,7 +36,6 @@ from the snap, = 1613/14876 * 100
                = 0.1084296 * 100
                = 10.84296.
 
-## DAY 2
 
 Running the floor plan
 
@@ -83,7 +81,6 @@ run_floorplan
 
 
 ## Learnings:
-Day 1:
 Risc v is an opensource instruction set architecture(ISA) to develop custom processors.
 A typical ardino board/ embeded board consists typically a processor(package) and their interfaces, for couarse of time we only concentrate on the processor part.
 
@@ -92,7 +89,6 @@ A typical ardino board/ embeded board consists typically a processor(package) an
 PDKS are process design kits which are set of libraies provided by the foundary to the desiners inorder to meet the manufacturing criterias.
 All the standard cells, macros and ips are placed inside the core.
 
-Day 2:
 Floorplan:
 utilization ratio = total Area of the netlist/ total core area
 Aspect ratio= height/width =1 means square and any other number indicates its rectangular/rectilinear.
